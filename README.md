@@ -1,4 +1,4 @@
-# Fonts
+# winmetrics
 
 Before 10 1703 Windows had a [dialog][] w/ which it was possible to
 change such theme params like a font size of a window title. Now when
@@ -37,4 +37,3 @@ the server process will auto-exit after a couple of sec.
 ## License
 
 MIT.
-
