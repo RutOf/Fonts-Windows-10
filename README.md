@@ -1,4 +1,4 @@
-# winmetrics
+# Fonts
 
 Before 10 1703 Windows had a [dialog][] w/ which it was possible to
 change such theme params like a font size of a window title. Now when
