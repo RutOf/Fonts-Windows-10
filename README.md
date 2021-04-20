@@ -1,4 +1,4 @@
-# winmetrics
+#  Fonts
 
 Before 10 1703 Windows had a [dialog][] w/ which it was possible to
 change such theme params like a font size of a window title. Now when
@@ -12,8 +12,7 @@ you're actually editing.
 
 Behold winmetrics:
 
-![a screenshot]https://github.com/gromnitsky/winmetrics/blob/master/doc/w10__winmetrics.png
-
+![a screenshot] https://www.picz.in.th/image/w10-winmetrics.AUFgvW
 Hovering over & clicking on a desired gui widget brings its relevant
 options.
 
