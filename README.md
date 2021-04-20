@@ -12,7 +12,7 @@ you're actually editing.
 
 Behold winmetrics:
 
-![a screenshot](doc/w10__winmetrics.png)
+![a screenshot]https://github.com/gromnitsky/winmetrics/blob/master/doc/w10__winmetrics.png
 
 Hovering over & clicking on a desired gui widget brings its relevant
 options.
